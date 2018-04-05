@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="shb_score_style">
+    <item name="android:textColor">@color/shb_score_text_color</item>
+    <item name="android:textSize">@dimen/shb_score_text_size</item>
+    <item name="android:fontFamily">@font/roboto_bold</item>
+  </style>
+</resources>

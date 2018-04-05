@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="shb_bar_width">70dp</dimen>
+  <dimen name="shb_bar_height">10dp</dimen>
+  <dimen name="shb_bar_corner_radius">8dp</dimen>
+  <dimen name="shb_score_text_size">24sp</dimen>
+  <dimen name="shb_score_bottom_margin">4dp</dimen>
+  <dimen name="shb_score_bar_level1_width">14dp</dimen>
+  <dimen name="shb_score_bar_level2_width">28dp</dimen>
+  <dimen name="shb_score_bar_level3_width">42dp</dimen>
+  <dimen name="shb_score_bar_level4_width">56dp</dimen>
+  <dimen name="shb_score_bar_level5_width">70dp</dimen>
+</resources>

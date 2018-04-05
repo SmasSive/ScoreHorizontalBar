@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="shb_bar_background_color">#DCDCDC</color>
+  <color name="shb_score_bar_background_level1_color">#F44C23</color>
+  <color name="shb_score_bar_background_level2_color">#F47923</color>
+  <color name="shb_score_bar_background_level3_color">#F5A623</color>
+  <color name="shb_score_bar_background_level4_color">#C0B536</color>
+  <color name="shb_score_bar_background_level5_color">#8BC34A</color>
+  <color name="shb_score_text_color">#4D4D4D</color>
+</resources>
